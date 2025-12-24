@@ -1,4 +1,6 @@
 # MongoDB & Mongo Express Deployment on Kubernetes (AWS)
+![WhatsApp Image 2025-12-24 at 4 34 06 PM](https://github.com/user-attachments/assets/f4bf1708-daba-4062-870f-2032ad293a47)
+
 
 ## Project Overview
 
